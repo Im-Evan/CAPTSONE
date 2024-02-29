@@ -13,5 +13,11 @@
     </ul>
 </nav.js>
 <Main.js></Main.js>
-<Footer.js></Footer.js>
+<Footer.js>
+    <ul>
+        <li>Do Not Sell My Information</li>
+        <li>Contact Us</li>
+        <li>Leave a Review</li>
+    </ul>
+</Footer.js>
 </>
